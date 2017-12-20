@@ -11,6 +11,7 @@ namespace MvcApplicationTest.Controllers
         public ActionResult Index()
         {
             return View();
+            //Comment added in Home Controller on December 20, 2017
         }
     }
 }
