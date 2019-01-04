@@ -12,6 +12,7 @@ namespace MvcApplicationTest.Controllers
         {
             return View();
             //Comment added in Home Controller on December 20, 2017
+            //Comment added in Home Controller on December 20, 2017
         }
     }
 }
